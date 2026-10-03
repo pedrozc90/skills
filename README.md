@@ -2,6 +2,12 @@
 
 Collection of agent skills for Claude Code.
 
+## Skills
+
+| Skill     | Description                                                           |
+|:----------|:----------------------------------------------------------------------|
+| `commits` | Suggest how to split pending changes into commits (submodules first). |
+
 ## Install
 
 Link a skill into `~/.claude/skills`:
